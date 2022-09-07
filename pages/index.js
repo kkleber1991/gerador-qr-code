@@ -56,7 +56,7 @@ export default function Home() {
         <a
           href="https://kedllon.solutions"
           target="_blank"
-          rel="Kedllon Solutions logo"
+          rel="noreferrer"
         >
           Powered by {' '}
           <span>
