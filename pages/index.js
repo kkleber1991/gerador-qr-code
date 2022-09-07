@@ -55,7 +55,6 @@ export default function Home() {
       <footer className={styles.footer}>
         <a
           href="https://kedllon.solutions"
-          rel="noopener"
           target="_blank"
         >
           Powered by {' '}
